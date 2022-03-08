@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">a3_moviesearch</string>
+    <string name="click">Click</string>
+    <string name="name">Name</string>
+    <string name="type_here">Type Here</string>
+    <string name="list">LIST</string>
+    <string name="montemayor_denice">Montemayor Denice</string>
+    <string name="_01634277">01634277</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="todo">TODO</string>
+    <string name="_2099">2099</string>
+    <string name="romance">Romance</string>
+    <string name="director">Director</string>
+    <string name="writers">Writers</string>
+    <string name="directors">Directors</string>
+    <string name="actors">Actors</string>
+    <string name="imdb_rating">IMDB rating</string>
+    <string name="rotten_tomato_rating">Rotten Tomato rating</string>
+    <string name="metacritic_rating">Metacritic rating</string>
+    <string name="metacritic">metacritic</string>
+    <string name="rt">RT</string>
+    <string name="icon_for_imdb">icon for imdb</string>
+    <string name="icon_for_rotten_tomato">icon for rotten tomato</string>
+    <string name="icon_for_metacritic">icon for metacritic</string>
+    <string name="imdb">imdb</string>
+    <string name="favicon">FavIcon</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="icon_for_search">Icon for Search</string>
+    <string name="_2012">2012</string>
+    <string name="action">Action</string>
+    <string name="avengers">Avengers</string>
+    <string name="poster">poster</string>
+    <string name="nothing_in_here">Nothing in here!</string>
+</resources>
